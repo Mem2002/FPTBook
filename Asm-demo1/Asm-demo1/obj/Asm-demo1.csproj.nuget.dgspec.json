@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADMIN\\source\\repos\\Asm-demo1\\Asm-demo1\\Asm-demo1.csproj": {}
+    "D:\\Programming\\ASP .NET MVC\\FPTBook\\Asm-demo1\\Asm-demo1\\Asm-demo1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADMIN\\source\\repos\\Asm-demo1\\Asm-demo1\\Asm-demo1.csproj": {
+    "D:\\Programming\\ASP .NET MVC\\FPTBook\\Asm-demo1\\Asm-demo1\\Asm-demo1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\Asm-demo1\\Asm-demo1\\Asm-demo1.csproj",
+        "projectUniqueName": "D:\\Programming\\ASP .NET MVC\\FPTBook\\Asm-demo1\\Asm-demo1\\Asm-demo1.csproj",
         "projectName": "Asm-demo1",
-        "projectPath": "C:\\Users\\ADMIN\\source\\repos\\Asm-demo1\\Asm-demo1\\Asm-demo1.csproj",
-        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADMIN\\source\\repos\\Asm-demo1\\Asm-demo1\\obj\\",
+        "projectPath": "D:\\Programming\\ASP .NET MVC\\FPTBook\\Asm-demo1\\Asm-demo1\\Asm-demo1.csproj",
+        "packagesPath": "C:\\Users\\quand\\.nuget\\packages\\",
+        "outputPath": "D:\\Programming\\ASP .NET MVC\\FPTBook\\Asm-demo1\\Asm-demo1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\quand\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
