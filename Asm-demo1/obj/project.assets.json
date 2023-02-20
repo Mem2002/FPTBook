@@ -10464,11 +10464,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\source\\repos\\FPTBook\\Asm-demo1\\Asm-demo1.csproj",
+      "projectUniqueName": "C:\\FPTBook - Copy\\Asm-demo1\\Asm-demo1.csproj",
       "projectName": "Asm-demo1",
-      "projectPath": "C:\\Users\\ADMIN\\source\\repos\\FPTBook\\Asm-demo1\\Asm-demo1.csproj",
+      "projectPath": "C:\\FPTBook - Copy\\Asm-demo1\\Asm-demo1.csproj",
       "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\source\\repos\\FPTBook\\Asm-demo1\\obj\\",
+      "outputPath": "C:\\FPTBook - Copy\\Asm-demo1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",

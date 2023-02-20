@@ -1,5 +1,6 @@
 ﻿using Asm_demo1.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics;
 
 namespace Asm_demo1.Controllers
@@ -12,6 +13,7 @@ namespace Asm_demo1.Controllers
         {
             _logger = logger;
         }
+
 
         public IActionResult Index()
         {

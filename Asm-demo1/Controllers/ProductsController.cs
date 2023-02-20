@@ -20,7 +20,7 @@ namespace Asm_demo1.Controllers
         {
             _context = context;
         }
-        [Authorize(Roles = "Admin")]//***
+        //[Authorize(Roles = "Admin")]//***
         // GET: Products
         public async Task<IActionResult> Index()
         {
